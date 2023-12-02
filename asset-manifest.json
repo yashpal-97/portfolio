@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.a532e546.css",
-    "main.js": "/project/static/js/main.8866c9d6.js",
-    "static/media/webdesign.png": "/project/static/media/webdesign.7513d0c7de91cf671113.png",
-    "static/media/bpd.png": "/project/static/media/bpd.79afc94542172e1c6978.png",
-    "static/media/expense.png": "/project/static/media/expense.79ed9bc079e4e9809d89.png",
-    "static/media/yashpal.jpg": "/project/static/media/yashpal.eb6e8bab19a2255c35d3.jpg",
-    "static/media/password.png": "/project/static/media/password.0bbf6baace72f393ffcb.png",
-    "static/media/MARKPROHEAVY.woff": "/project/static/media/MARKPROHEAVY.9ef52c7f9e1c73670cac.woff",
-    "static/media/MARKPROBOLD.woff": "/project/static/media/MARKPROBOLD.aaa0693eae7f77db324b.woff",
-    "static/media/MARKPROBOOK.woff": "/project/static/media/MARKPROBOOK.a086dfe702f4faba14b3.woff",
-    "static/media/MARKPRO.woff": "/project/static/media/MARKPRO.adc5eca57e4e788ee878.woff",
-    "static/media/MARKPROLIGHT.woff": "/project/static/media/MARKPROLIGHT.facda26121fe54ffbccd.woff",
-    "static/media/MARKPROEXTRALIGHT.woff": "/project/static/media/MARKPROEXTRALIGHT.8af5b7b4323d2845e68b.woff",
-    "static/media/MARKPROBLACK.woff": "/project/static/media/MARKPROBLACK.41c65b02b7bc98b63abb.woff",
-    "static/media/MARKPROMEDIUM.woff": "/project/static/media/MARKPROMEDIUM.e66bb25f0ad67ebfbaa9.woff",
-    "static/media/Logo.png": "/project/static/media/Logo.33e2bef5ff001f55c293.png",
-    "static/media/MobileLogo.png": "/project/static/media/MobileLogo.33e2bef5ff001f55c293.png",
-    "index.html": "/project/index.html",
-    "main.a532e546.css.map": "/project/static/css/main.a532e546.css.map",
-    "main.8866c9d6.js.map": "/project/static/js/main.8866c9d6.js.map"
+    "main.css": "/portfolio/static/css/main.3ee85fb6.css",
+    "main.js": "/portfolio/static/js/main.de7d4993.js",
+    "static/media/webdesign.png": "/portfolio/static/media/webdesign.7513d0c7de91cf671113.png",
+    "static/media/bpd.png": "/portfolio/static/media/bpd.79afc94542172e1c6978.png",
+    "static/media/expense.png": "/portfolio/static/media/expense.79ed9bc079e4e9809d89.png",
+    "static/media/yashpal.jpg": "/portfolio/static/media/yashpal.eb6e8bab19a2255c35d3.jpg",
+    "static/media/password.png": "/portfolio/static/media/password.0bbf6baace72f393ffcb.png",
+    "static/media/MARKPROHEAVY.woff": "/portfolio/static/media/MARKPROHEAVY.9ef52c7f9e1c73670cac.woff",
+    "static/media/MARKPROBOLD.woff": "/portfolio/static/media/MARKPROBOLD.aaa0693eae7f77db324b.woff",
+    "static/media/MARKPROBOOK.woff": "/portfolio/static/media/MARKPROBOOK.a086dfe702f4faba14b3.woff",
+    "static/media/MARKPRO.woff": "/portfolio/static/media/MARKPRO.adc5eca57e4e788ee878.woff",
+    "static/media/MARKPROLIGHT.woff": "/portfolio/static/media/MARKPROLIGHT.facda26121fe54ffbccd.woff",
+    "static/media/MARKPROEXTRALIGHT.woff": "/portfolio/static/media/MARKPROEXTRALIGHT.8af5b7b4323d2845e68b.woff",
+    "static/media/MARKPROBLACK.woff": "/portfolio/static/media/MARKPROBLACK.41c65b02b7bc98b63abb.woff",
+    "static/media/MARKPROMEDIUM.woff": "/portfolio/static/media/MARKPROMEDIUM.e66bb25f0ad67ebfbaa9.woff",
+    "static/media/Logo.png": "/portfolio/static/media/Logo.33e2bef5ff001f55c293.png",
+    "static/media/MobileLogo.png": "/portfolio/static/media/MobileLogo.33e2bef5ff001f55c293.png",
+    "index.html": "/portfolio/index.html",
+    "main.3ee85fb6.css.map": "/portfolio/static/css/main.3ee85fb6.css.map",
+    "main.de7d4993.js.map": "/portfolio/static/js/main.de7d4993.js.map"
   },
   "entrypoints": [
-    "static/css/main.a532e546.css",
-    "static/js/main.8866c9d6.js"
+    "static/css/main.3ee85fb6.css",
+    "static/js/main.de7d4993.js"
   ]
 }
