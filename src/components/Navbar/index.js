@@ -32,7 +32,7 @@ const Navbar = () => {
             </LinkR>
           )}
           <a
-            href="https://drive.google.com/file/d/1Wk7ku1Td3cvriHnGaNF3ec6dd6ce-KH8/view?usp=sharing"
+            href="https://drive.google.com/drive/folders/16gdIIprXCR4I5baeyhZMnV5jDGKP6TA0"
             target="_blank"
             rel="noopener noreferrer"
             className="resume"

@@ -17,7 +17,7 @@ const HeroSection = () => {
           <div className="hero__intro-type">{/* <TypeRoles /> */}</div>
           <div className="hero__short-intro">
             <p>
-              Second Year Computer Science and Engineering student from Ambikapur, working as a
+              Third Year Computer Science and Engineering student from Ambikapur, working as a
               Full Stack Web developer and currently learning Data Structures and Algorithms
               building cool stuff with ReactJS and ExpressJS.
             </p>
@@ -28,7 +28,7 @@ const HeroSection = () => {
             <button>Check out my works!</button>
           </a>
           <a
-            href="https://drive.google.com/file/d/1Wk7ku1Td3cvriHnGaNF3ec6dd6ce-KH8/view?usp=sharing"
+            href="https://drive.google.com/drive/folders/16gdIIprXCR4I5baeyhZMnV5jDGKP6TA0"
             target="_blank"
             rel="noopener noreferrer"
             className="resume"

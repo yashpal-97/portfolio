@@ -21,7 +21,9 @@ const About = () => {
            I do problem solving on online platform like 
            Codeforces, CodeChef and Leetcode and have solved more than
            1000+ problem combined.
-           I am rated Pupil(max 1319) on Codeforces and 3 star (max 1703) on CodeChef.
+           I am rated Knight(max 1897) on <a href="https://leetcode.com/yashpal_97/ " target="_blank"><strong>Leetcode</strong></a>,
+             Pupil(max 1319) on <a href="https://codeforces.com/profile/yashpal_97 " target="_blank"><strong>Codeforces</strong></a> and 
+             3 star (max 1703) on <a href="https://www.codechef.com/users/yashpal_op" target="_blank"><strong>CodeChef</strong></a>.
           </p>
           <p>
             I like to pariticipate in hackathons and coding competitions.
@@ -32,7 +34,7 @@ const About = () => {
             <p>
              I have worked as a Web Development intern at Viand Reseach Private Limited 
              where I enhanced my Development skills.
-             I am also in the Web Development team of Google Developer Student Club (GDSC) at NIT Agartala.
+             I am also the Web Development Lead of Google Developer Student Club (GDSC) at NIT Agartala.
             </p>
             <p></p>
           </div>
