@@ -51,18 +51,24 @@ const About = () => {
           <div className="skill__cards">
             <div className="skill__card" style={{ backgroundColor: "#cf92fb" }}>
               <h2>Expertise</h2>
-              <p>Problem Solving</p>
+              <p>Problem</p>
+              <p>Solving</p>
+              <p></p>
+             <p>Web</p>
+              <p>Development</p>
+              <p></p>
               <p>UI UX Design</p>
+              <p></p>
               <p>Database</p>
-              <p> Management</p>
-
-              <p>Web Development</p>
+              <p></p>
+              <p></p>
             </div>
             <div className="skill__card" style={{ backgroundColor: "#b44bff" }}>
               <h2>Tech Stack</h2>
               <p>C/C++</p>
               <p>Javascript</p>
               <p>React Js</p>
+              <p>Express Js</p>
               
               <p>Node Js</p>
               <p>Postman</p>

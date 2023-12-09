@@ -21,14 +21,14 @@ const Navbar = () => {
         <div className="navbar__Links">
           <LinkR to="/">Home</LinkR>
           <LinkR to="about">About</LinkR>
-
+          <LinkR to="Mycontact">Contact</LinkR>
           {location.pathname === "/" ? (
             <LinkS to="contact" smooth={true}>
-              Contact
+              Social
             </LinkS>
           ) : (
             <LinkR to="/" state={{ scrollToContact: true }}>
-              Contact
+               Social
             </LinkR>
           )}
           <a

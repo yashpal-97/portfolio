@@ -14,11 +14,11 @@ const HeroSection = () => {
             building <span className="hero__color">products</span> and{" "}
             <span className="hero__color">experiences</span>.
           </h1>
-          <div className="hero__intro-type">{/* <TypeRoles /> */}</div>
+          <div className="hero__intro-type">{/* <TypeRoles /> */}</div> 
           <div className="hero__short-intro">
             <p>
-              Third Year Computer Science and Engineering student from Ambikapur, working as a
-              Full Stack Web developer and currently learning Data Structures and Algorithms
+              Third Year Computer Science and Engineering student from Ambikapur, mastering Data Structures and Algorithms and
+              working as a Full Stack Web developer, 
               building cool stuff with ReactJS and ExpressJS.
             </p>
           </div>

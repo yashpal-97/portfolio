@@ -16,6 +16,7 @@ import Dev from "./components/Dev";
 /* LOWER ORDER */
 import CustomLoader from "./components/CustomLoader";
 import Footer from "./components/Footer";
+import Mycontact from "./components/Mycontact/Mycontact";
 
 function App() {
   const [loading, setLoading] = useState(false);
@@ -39,6 +40,7 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/dev" element={<Dev/>} />
             <Route path="*" element={<Home/>} />
+            <Route path="Mycontact" element={<Mycontact/>}/>
           </Routes>
           <Footer />
           <ScrollToTop smooth color="black" />
