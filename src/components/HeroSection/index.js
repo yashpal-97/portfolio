@@ -17,8 +17,8 @@ const HeroSection = () => {
           <div className="hero__intro-type">{/* <TypeRoles /> */}</div> 
           <div className="hero__short-intro">
             <p>
-              Third Year Computer Science and Engineering student from Ambikapur, mastering Data Structures and Algorithms and
-              working as a Full Stack Web developer, 
+              Final Year Computer Science and Engineering student from Ambikapur, mastering Data Structures and Algorithms and
+              working as a Software Developer, 
               building cool stuff with ReactJS and ExpressJS.
             </p>
           </div>
