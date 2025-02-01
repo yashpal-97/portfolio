@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 
 import HeroSection from "../../components/HeroSection";
 import DevProjects from "../../components/Dev";
-
+import OppositeContentTimeline from "../../components/TimeLine";
 
 import ContactSection from "../../components/Contact";
 
@@ -23,7 +23,7 @@ function Home() {
   return (
     <div id="home">
       <HeroSection />
-      
+      <OppositeContentTimeline/>
       <DevProjects />
      
       <ContactSection />

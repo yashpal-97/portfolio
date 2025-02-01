@@ -6,7 +6,7 @@ function TypeRoles() {
       <Typewriter
         options={{
           strings: [
-            "React Developer",
+            "Software Developer",
             "Competitive Programmer",
             "Engineer",
           ],
