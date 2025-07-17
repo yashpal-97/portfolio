@@ -1,4 +1,3 @@
-import React from "react";
 import Typewriter from "typewriter-effect";
 function TypeRoles() {
   return (
@@ -8,7 +7,7 @@ function TypeRoles() {
           strings: [
             "Software Developer",
             "Competitive Programmer",
-            "Engineer",
+            "Computer Science Engineer",
           ],
           autoStart: true,
           loop: true,

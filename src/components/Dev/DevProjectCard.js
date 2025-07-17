@@ -1,5 +1,3 @@
-import React from "react";
-
 import "./DevProjectCard.scss";
 
 const DevProjectCard = ({ development }) => {

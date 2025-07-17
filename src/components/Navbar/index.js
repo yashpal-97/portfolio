@@ -1,4 +1,3 @@
-import React from "react";
 import "./navbar.styles.scss";
 import { Link as LinkR } from "react-router-dom";
 import { Link as LinkS } from "react-scroll";

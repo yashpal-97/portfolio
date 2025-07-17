@@ -1,9 +1,5 @@
-import React from "react";
- import TypeRoles from "./TypeRoles"; 
+import TypeRoles from "./TypeRoles"; 
 import "./HeroSection.scss";
-import { Link } from "react-scroll";
-import Dev from "../../components/Dev";
-
 
 const HeroSection = () => {
   return (
@@ -18,9 +14,9 @@ const HeroSection = () => {
           <div className="hero__intro-type"><h2><TypeRoles /></h2></div> 
           <div className="hero__short-intro">
             <p>
-              Final Year Computer Science and Engineering student from Ambikapur, mastering Data Structures and Algorithms and
+              Computer Science and Engineering graduate from NIT Agartala(2021-2025) , mastering Data Structures and Algorithms,
               working as a Software Developer, 
-              building cool stuff with ReactJS and ExpressJS.
+              and building cool stuff.
             </p>
           </div>
         </div>
@@ -29,12 +25,6 @@ const HeroSection = () => {
             <button>Check out my works!</button>
           </a>
 
-          <br/>
-          <br/>
-          <br/>
-          <h1 style={{fontSize:"3rem", fontWeight:"800"}}>
-            Work Experience
-          </h1>
         </div>
       </div>
      

@@ -1,6 +1,4 @@
-import React from "react";
 import "./About.scss";
-
 import Me from "../../assets/yashpal.jpg";
 
 const About = () => {
@@ -12,9 +10,7 @@ const About = () => {
           <div className="about__info">
             <p>
               I'm a self-taught Software Developer and a Competitive Programmer.
-               I'm pursuing my Bachelor's Degree in
-              Computer Science and Engineering from National Institute of Technology Agartala,
-              graduating in 2025.
+               I hold a Bachelor's Degree in Computer Science and Engineering from the National Institute of Technology Agartala (Dec 2021 - May 2025).
             </p>
           
             <p>
@@ -27,14 +23,15 @@ const About = () => {
           </p>
           <p>
             I like to pariticipate in hackathons and coding competitions.
-            My team Lifetime Terror secured 2nd rank in Tripura Police Hackathon which was a National 
+            My team "LifetimeTerror" secured 2nd rank in Tripura Police Hackathon which was a National 
             level competition.
+
             I have achieved the postman student expert badge too. 
           </p>
             <p>
-             I have worked as a Software Development intern at <strong>National Informatics Centre Agartala</strong> and as a Web Development intern at <strong>Viand Reseach Private Limited </strong>
+             I have worked as a Software Development intern at <strong>Amazon</strong> & <strong>National Informatics Centre Agartala</strong> and as a Web Development intern at <strong>Viand Reseach Private Limited </strong>
              where I enhanced my Development skills.
-             I am also the Web Development Lead of Google Developer Student Club (GDSC) at NIT Agartala.
+             I have also been the Web Development Lead of Google Developer Student Club (GDSC) at NIT Agartala.
             </p>
             <p></p>
           </div>
@@ -54,19 +51,19 @@ const About = () => {
               <p>C/C++</p>
               <p>Java</p>
               <p>Javascript</p>
+              <p>TypeScript</p>
               <p>SQL</p>
               <p>HTML</p>
               <p>CSS</p>
             </div>
             <div className="skill__card" style={{ backgroundColor: "#b44bff" }}>
               <h2>Framework</h2>
-              
               <p>React Js</p>
               <p>Express Js</p>
-              
               <p>Node Js</p>
               <p>SpringBoot</p>
               <p>REST API</p>
+              
              
             </div>
 
@@ -77,6 +74,7 @@ const About = () => {
               <p>Github</p>
               <p>Postman</p>
               <p>Firebase</p>
+              <p>AWS</p>
             <p>Bootstrap</p>
             <p>Tailwind CSS</p>
             </div>

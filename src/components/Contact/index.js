@@ -1,19 +1,12 @@
-import React from "react";
 import ContactLink from "./ContactLink";
 
 /* STYLING */
 import "./ContactSection.scss";
 
 /* ICONS */
-
 import { FaLinkedinIn } from "react-icons/fa";
-
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
-
-
-/*  */
-
 import { Element } from "react-scroll";
 
 const ContactSection = () => {
@@ -24,7 +17,7 @@ const ContactSection = () => {
           <h1>sold yet?</h1>
           <p>
             Thanks for stopping by, I’m currently looking to join a new team of
-            creative designers and developers. If you think we might be a good
+            creative developers. If you think we might be a good
             fit for one another, please do connect with me online.
           </p>
         </div>

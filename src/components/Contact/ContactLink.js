@@ -1,4 +1,3 @@
-import React from "react";
 import "./ContactLink.scss";
 const ContactLink = ({ Icon, link }) => {
   return (

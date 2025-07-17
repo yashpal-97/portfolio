@@ -1,8 +1,5 @@
-import React from "react";
 import { SyncLoader } from "react-spinners";
-
 import "./CustomLoader.scss";
-
 import Logo from "../../assets/Logo.png";
 
 const CustomLoader = () => {
