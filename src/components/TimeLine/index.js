@@ -13,9 +13,27 @@ export default function OppositeContentTimeline() {
             Work Experience
           </h1>
 
+
+
           <br/>
           <br/>
 
+  <TimelineItem>
+        <TimelineOppositeContent color="blueviolet"style={{fontSize:"2rem",fontWeight:"800"}}>
+          SDE (August 2025-Current)
+        </TimelineOppositeContent>
+        <TimelineSeparator>
+          <TimelineDot />
+          <TimelineConnector />
+        </TimelineSeparator>
+        <TimelineContent style={{fontSize:"2rem",fontWeight:"800"}}>
+          Amazon (HYD13)
+          </TimelineContent>
+      </TimelineItem>
+
+      <br/>
+      <br/>
+      <br/>
       <TimelineItem>
         <TimelineOppositeContent color="blueviolet"style={{fontSize:"2rem",fontWeight:"800"}}>
           SDE Intern (January 2025-June 2025)
